@@ -1,16 +1,17 @@
 # Sprunki Mixer Mod
 ## Combine, Create, and Conquer the World of Sprunki!
 
-[Play Sprunki Mixer Now!](https://sprunkiincredibox.app/sprunki-mixer)
+## [Play Sprunki Mixer Now!](https://sprunkiincredibox.app/sprunki-mixer)
 
 ### What is Sprunki Mixer?
 Sprunki Mixer is an exciting mod that allows you to merge different Sprunki characters in a virtual blender to craft unique hybrids! Each blend not only changes the appearance but also the sounds, giving you endless musical and visual creativity!
 
 ![Sprunki Mixer](https://sprunkiincredibox.app/images/sprunki_mixer.jpg)
 
-[Play Sprunki Babies](https://github.com/Sprunki-Babies/)
+## [Play Sprunki Babies](https://github.com/Sprunki-Babies/)
 
-[Play Sprunki Halloween](https://github.com/Sprunki-Halloween-Mod)
+## [Play Sprunki Halloween](https://github.com/Sprunki-Halloween-Mod)
+## [Play Sprunki Phase 0](https://sprunkiincredibox.app/sprunki-phase-0)
 
 ### Key Features
 - **Mix & Match:** Combine any two Sprunki characters to form a brand-new hybrid creation!
@@ -51,3 +52,6 @@ Although you can’t save combinations permanently, you can recreate them anytim
 
 ---
 Let your creativity run wild with **Sprunki Mixer** – where every blend brings something fresh and unexpected!
+
+## Resource
+[Sprunki Phase 0](https://github.com/Sprunki-Phase-0-Mod)
