@@ -8,6 +8,10 @@ Sprunki Mixer is an exciting mod that allows you to merge different Sprunki char
 
 ![Sprunki Mixer](https://sprunkiincredibox.app/images/sprunki_mixer.jpg)
 
+[Play Sprunki Babies](https://github.com/Sprunki-Babies/)
+
+[Play Sprunki Halloween](https://github.com/Sprunki-Halloween-Mod)
+
 ### Key Features
 - **Mix & Match:** Combine any two Sprunki characters to form a brand-new hybrid creation!
 - **Discover Hidden Combos:** Unlock secret character combinations using special background elements.
